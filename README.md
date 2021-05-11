@@ -1,9 +1,10 @@
-### Hi there 👋
-     Im Ahmed Yazid Mejri
+<h1 align="center">
+     Hi there 👋<br>
+     Im Ahmed Yazid Mejri</h1>
+     <h2 align="center">I'm a Full Stack Developer</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazidam&show_icons=true)
+![Anurag's GitHub stats ](https://github-readme-stats.vercel.app/api?username=yazidam&show_icons=true)
 <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazidam&show_icons=true&theme=radical)-->
-
 
 
 
