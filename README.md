@@ -1,6 +1,6 @@
 <!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)] -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)   
-
+<!-- <img alt="Coder gif" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right"/> -->
 <h1 align="center">
      Hi there 👋<br>
      I'm Ahmed Yazid Mejri</h1>
