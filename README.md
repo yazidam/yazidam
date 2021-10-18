@@ -23,7 +23,11 @@
 <!--      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yazidam&" alt="yazidam" /></p> -->
 </p>
 
-
+<!-- <p align="center">
+  <a href="https://github.com/Shady7781">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazidam&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="Shady7781's github stats">
+  </a>
+</p> -->
 
 
 <!--
